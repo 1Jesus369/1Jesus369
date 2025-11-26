@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on blockchain 
 - 📫 How to reach me 
 - 😄 Pronouns: Mr/ Sir 
-- ⚡ Fun fact: I love bsv 
+- ⚡ Fun fact: On-maxie
 
 <!---
 1Jesus369/1Jesus369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
