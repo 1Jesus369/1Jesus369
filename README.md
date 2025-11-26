@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1Jesus369
-- 👀 I’m interested in blockchain and Bitcoin sv
+- 👀 I’m interested in blockchain 
 - 🌱 I’m currently learning how to create tokens on bsv
 - 💞️ I’m looking to collaborate on blockchain 
 - 📫 How to reach me 
